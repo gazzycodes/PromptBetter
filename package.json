@@ -1,0 +1,75 @@
+{
+  "name": "promptbetter",
+  "displayName": "PromptBetter",
+  "version": "1.0.0",
+  "description": "AI Prompt Enhancement Tool - Transform your casual prompts into professional, optimized prompts for different AI platforms and use cases.",
+  "author": "GazzyCodes <gazzyjuruj1@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/gazzycodes/PromptBetter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gazzycodes/PromptBetter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gazzycodes/PromptBetter/issues"
+  },
+  "keywords": [
+    "ai",
+    "prompt-enhancement",
+    "juggernautxl",
+    "image-generation",
+    "coding-assistant",
+    "prompt-optimization",
+    "google-gemini",
+    "react",
+    "typescript"
+  ],
+  "private": true,
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.16",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.126",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@types/uuid": "^10.0.0",
+    "autoprefixer": "^10.4.21",
+    "lucide-react": "^0.525.0",
+    "postcss": "^8.5.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^4.9.5",
+    "uuid": "^11.1.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
